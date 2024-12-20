@@ -2,7 +2,7 @@
 # 1：vps一键命令，已集成到ssh工具箱中
 vps一键命令，无交互安装，支持订阅 支持Ubuntu/Debian/CentOS/Alpine/Fedora/Rocky/Almalinux
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Thanandy/S-box/main/sing-box.sh)
 ```
 
 ssh综合工具箱一键脚本
@@ -13,13 +13,13 @@ curl -fsSL https://raw.githubusercontent.com/eooce/ssh_tool/main/ssh_tool.sh -o 
 # 2：Serv00|ct8 
 一键三协议安装脚本vless-reality|hy2|tuic 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/test/sb_00.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Thanandy/S-box/test/sb_00.sh)
 ```
 一键三协议无交互安装脚本vless-reality|vmess-splithttp|vmess-splithttp-tls(argo) 
 * 必填环境变量：VLESS_PORT ARGO_PORT
 * 可选环境变量：UUID CFIP CFPORT NEZHA_SERVER NEZHA_PORT NEZHA_KEY ARGO_DOMAIN ARGO_AUTH 
 ```
-VLESS_PORT=TCP端口 ARGO_PORT=TCP端口 bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/test/x00.sh)
+VLESS_PORT=TCP端口 ARGO_PORT=TCP端口 bash <(curl -Ls https://raw.githubusercontent.com/Thanandy/S-box/test/x00.sh)
 ```
 
 # 3：游戏机hosting
